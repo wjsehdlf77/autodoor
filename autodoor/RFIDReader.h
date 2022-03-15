@@ -11,6 +11,7 @@ class RFIDReader
 {
 protected:
     MFRC522 mfrc;
+    Servo servo;
     int rst;
     int ss;
     int btn_pin;
@@ -18,14 +19,16 @@ protected:
     int led1_pin;
     int led2_pin;
     bool no_btn;
+    byte otherId;
 
 
 
 public:
     RFIDReader(int rst, int ss, int btn_pin, int servo_pin, int led1_pin, int led2_pin);
     void init();
-    void open(byte *id1, byte *id2);
-    void close(byte *id1, byte *id2);
+    void equalid(byte *id1, byte *id2);
+    void open();
+    void close();
     void reg();
 
 };

@@ -26,11 +26,6 @@
   },
   {
     "Sourcefile": "c:\\workspace\\autodoor\\build\\sketch\\RFIDReader.cpp.cpp",
-    "Include": "Buzzer.h",
-    "Includepath": "C:\\Users\\doyle\\OneDrive\\문서\\Arduino\\libraries\\Buzzer"
-  },
-  {
-    "Sourcefile": "c:\\workspace\\autodoor\\build\\sketch\\RFIDReader.cpp.cpp",
     "Include": "",
     "Includepath": null
   },
@@ -81,11 +76,6 @@
   },
   {
     "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
-    "Include": "",
-    "Includepath": null
-  },
-  {
-    "Sourcefile": "C:\\Users\\doyle\\OneDrive\\문서\\Arduino\\libraries\\Buzzer\\Buzzer.cpp",
     "Include": "",
     "Includepath": null
   }
