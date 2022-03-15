@@ -1,5 +1,5 @@
 {
-  "additionalFiles": "..",
+  "additionalFiles": "",
   "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
   "builtInToolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\doyle\\AppData\\Local\\Arduino15\\packages",
   "compiler.optimization_flags": "",
@@ -8,5 +8,5 @@
   "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\doyle\\AppData\\Local\\Arduino15\\packages",
   "otherLibrariesFolders": "C:\\Users\\doyle\\OneDrive\\문서\\Arduino\\libraries",
   "runtime.ide.version": "10819",
-  "sketchLocation": "c:\\workspace\\autodoor\\autodoor\\RFIDReader.cpp"
+  "sketchLocation": "c:\\workspace\\autodoor\\autodoor\\app.ino"
 }
