@@ -1,5 +1,6 @@
-c:\workspace\autodoor\build\sketch\app.ino.cpp.o: \
- c:\workspace\autodoor\build\sketch\app.ino.cpp \
+c:\workspace\autodoor\build\libraries\SPI\SPI.cpp.o: \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\libraries\SPI\src\SPI.cpp \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\libraries\SPI\src\SPI.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/binary.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h \
