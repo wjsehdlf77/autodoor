@@ -22,6 +22,10 @@
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src",
                 "C:\\Users\\doyle\\OneDrive\\문서\\Arduino\\libraries\\MFRC522\\src",
                 "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\EEPROM\\src",
+                "C:\\Users\\doyle\\OneDrive\\문서\\Arduino\\libraries\\LiquidCrystal_I2C",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src",
+                "C:\\Users\\doyle\\OneDrive\\문서\\Arduino\\libraries\\SimpleTimer",
                 "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include",
                 "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include-fixed",
                 "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\avr\\include"

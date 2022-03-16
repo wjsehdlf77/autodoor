@@ -31,6 +31,26 @@
   },
   {
     "Sourcefile": "c:\\workspace\\autodoor\\build\\sketch\\app.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\EEPROM\\src"
+  },
+  {
+    "Sourcefile": "c:\\workspace\\autodoor\\build\\sketch\\app.ino.cpp",
+    "Include": "LiquidCrystal_I2C.h",
+    "Includepath": "C:\\Users\\doyle\\OneDrive\\문서\\Arduino\\libraries\\LiquidCrystal_I2C"
+  },
+  {
+    "Sourcefile": "c:\\workspace\\autodoor\\build\\sketch\\app.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "c:\\workspace\\autodoor\\build\\sketch\\app.ino.cpp",
+    "Include": "SimpleTimer.h",
+    "Includepath": "C:\\Users\\doyle\\OneDrive\\문서\\Arduino\\libraries\\SimpleTimer"
+  },
+  {
+    "Sourcefile": "c:\\workspace\\autodoor\\build\\sketch\\app.ino.cpp",
     "Include": "",
     "Includepath": null
   },
@@ -86,6 +106,26 @@
   },
   {
     "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\doyle\\OneDrive\\문서\\Arduino\\libraries\\LiquidCrystal_I2C\\LiquidCrystal_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\doyle\\OneDrive\\문서\\Arduino\\libraries\\SimpleTimer\\SimpleTimer.cpp",
     "Include": "",
     "Includepath": null
   }
