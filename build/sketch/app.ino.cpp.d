@@ -22,5 +22,4 @@ c:\workspace\autodoor\build\sketch\app.ino.cpp.o: \
  C:\Users\doyle\OneDrive\문서\Arduino\libraries\LiquidCrystal_I2C/LiquidCrystal_I2C.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Print.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\libraries\Wire\src/Wire.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Stream.h \
- C:\Users\doyle\OneDrive\문서\Arduino\libraries\SimpleTimer/SimpleTimer.h
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Stream.h
