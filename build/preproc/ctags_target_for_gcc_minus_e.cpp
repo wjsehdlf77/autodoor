@@ -8,12 +8,11 @@ const int btn_pin = 6;
 bool btn_state;
 
 
+
 void main_sys() {
     btn_state = !digitalRead(btn_pin);
     if (btn_state) {
         autodoor.save(btn_state);
-        delay(5000);
-        autodoor.lcd.clear();
     }
     else if (!btn_state) {
         autodoor.read(myId);

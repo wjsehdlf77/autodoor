@@ -9,19 +9,18 @@ const int btn_pin = 6;
 bool btn_state;
 
 
-#line 10 "c:\\workspace\\autodoor\\autodoor\\app.ino"
+
+#line 11 "c:\\workspace\\autodoor\\autodoor\\app.ino"
 void main_sys();
-#line 23 "c:\\workspace\\autodoor\\autodoor\\app.ino"
+#line 22 "c:\\workspace\\autodoor\\autodoor\\app.ino"
 void setup();
-#line 29 "c:\\workspace\\autodoor\\autodoor\\app.ino"
+#line 28 "c:\\workspace\\autodoor\\autodoor\\app.ino"
 void loop();
-#line 10 "c:\\workspace\\autodoor\\autodoor\\app.ino"
+#line 11 "c:\\workspace\\autodoor\\autodoor\\app.ino"
 void main_sys() {
     btn_state = !digitalRead(btn_pin);
     if (btn_state) {
-        autodoor.save(btn_state);
-        delay(5000);
-        autodoor.lcd.clear();
+        autodoor.save(btn_state);       
     }
     else if (!btn_state) {
         autodoor.read(myId);
